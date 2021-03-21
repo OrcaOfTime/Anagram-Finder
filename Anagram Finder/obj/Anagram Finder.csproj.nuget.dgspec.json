@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sean.williams\\source\\repos\\Anagram Finder\\Anagram Finder\\Anagram Finder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sean.williams\\source\\repos\\Anagram Finder\\Anagram Finder\\Anagram Finder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sean.williams\\source\\repos\\Anagram Finder\\Anagram Finder\\Anagram Finder.csproj",
+        "projectName": "Anagram Finder",
+        "projectPath": "C:\\Users\\sean.williams\\source\\repos\\Anagram Finder\\Anagram Finder\\Anagram Finder.csproj",
+        "packagesPath": "C:\\Users\\sean.williams\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sean.williams\\source\\repos\\Anagram Finder\\Anagram Finder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sean.williams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\brisxptfs01\\nuget.server.packages\\1ds5_engine": {},
+          "http://brisxptfs01/nuget/nuget": {},
+          "http://nuget.grapecity.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/innovyze/global/_packaging/app_InfoDrainage/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/innovyze/global/_packaging/global_libraries/nuget/v3/index.json": {},
+          "https://www.myget.org/F/xbim-master/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
